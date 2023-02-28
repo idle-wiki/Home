@@ -26,6 +26,7 @@ otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear i
 # search
 [search]
 on = false
+#global = false
 
 [search.algolia]
 enable = false # if false search will default to fusejs
